@@ -14,7 +14,6 @@
 - 💬 Đánh giá từ người dùng
 - 📬 Form đăng ký nhận tin tức
 - 📰 Trang blog & tin tức mới nhất
-- 📱 Responsive trên mọi thiết bị (PC, tablet, mobile)
 - 🔍 Thanh tìm kiếm, giỏ hàng, đăng nhập
 - 🔒 Footer hiện đại, thông tin liên hệ và phương thức thanh toán
 
