@@ -47,7 +47,7 @@ dotnet run
 - Thiết kế lấy cảm hứng từ Figma và đã được hiện thực hoá bằng HTML/CSS.
 
 ## 📧 Liên hệ
-- 📮 Email: farolnguyen824@gmail.com
+- 📮 Email: bbaohan2212@gmail.com
 
 ## © Bản quyền
 © 2025 PawVerse Pet Shop. Thiết kế bởi Tung tung tung.
